@@ -1,0 +1,16 @@
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.csproj.AssemblyReference.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.AssemblyInfoInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.AssemblyInfo.cs
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.csproj.CoreCompileInputs.cache
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem.deps.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem.runtimeconfig.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem.runtimeconfig.dev.json
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/ref/DesafioFundamentosHospedagem.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/bin/Debug/net5.0/DesafioFundamentosHospedagem.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/ref/DesafioFundamentosHospedagem.dll
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.pdb
+/home/ederson/Documentos/Projetos/C#/DesafioFundamentosHospedagem/obj/Debug/net5.0/DesafioFundamentosHospedagem.genruntimeconfig.cache
